@@ -1,0 +1,10 @@
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\bin\Debug\Lab_5_2.exe.config
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\bin\Debug\Lab_5_2.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\bin\Debug\Lab_5_2.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.csproj.AssemblyReference.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.Form1.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.Properties.Resources.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.csproj.GenerateResource.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.csproj.CoreCompileInputs.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_5\Lab_5_2\Lab_5_2\obj\Debug\Lab_5_2.pdb

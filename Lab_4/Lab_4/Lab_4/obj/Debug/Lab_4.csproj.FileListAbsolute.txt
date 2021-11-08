@@ -1,0 +1,10 @@
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.AssemblyReference.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_4\Lab_4\Lab_4\obj\Debug\Lab_4.Form1.resources

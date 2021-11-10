@@ -39,8 +39,8 @@ namespace Lab_5_1
 
         private void button5_Click(object sender, EventArgs e)
         {
-            textBox1.SelectAll(); // select all text
-            textBox1.Cut(); // cut out what was selected
+            textBox1.SelectAll();
+            textBox1.Cut();
 
         }
     }

@@ -81,16 +81,6 @@ namespace Lab_7
             comboBox1.Items.RemoveAt(0);
         }
 
-        private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            MessageBox.Show("The SelectedIndexChanged event has occurred", "You clicked the component with the mouse");
-            if (comboBox4.SelectedIndex != -1)
-                MessageBox.Show("You have selected a value" + comboBox4.SelectedItem.ToString());
-            else
-                MessageBox.Show("You did not select a value", "Error");
-
-        }
-
         private void comboBox3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Happened Click event ", " You clicked on the component with the mouse ");
@@ -105,5 +95,14 @@ namespace Lab_7
                 MessageBox.Show("You did not select a value", "Error");
         }
 
+        private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("The SelectedIndexChanged event has occurred", "You clicked the component with the mouse");
+            if (comboBox4.SelectedIndex != -1)
+                MessageBox.Show("You have selected a value" + comboBox4.SelectedItem.ToString());
+            else
+                MessageBox.Show("You did not select a value", "Error");
+
+        }
     }
 }

@@ -59,6 +59,7 @@ namespace Lab_7
             this.comboBox5.Name = "comboBox5";
             this.comboBox5.Size = new System.Drawing.Size(210, 24);
             this.comboBox5.TabIndex = 29;
+            this.comboBox5.TextChanged += new System.EventHandler(this.comboBox5_TextChanged);
             // 
             // comboBox4
             // 
@@ -73,6 +74,7 @@ namespace Lab_7
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(209, 24);
             this.comboBox4.TabIndex = 28;
+            this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
             // comboBox3
             // 
@@ -87,6 +89,7 @@ namespace Lab_7
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(209, 24);
             this.comboBox3.TabIndex = 27;
+            this.comboBox3.Click += new System.EventHandler(this.comboBox3_Click);
             // 
             // button9
             // 

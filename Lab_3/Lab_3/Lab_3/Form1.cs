@@ -28,7 +28,7 @@ namespace Lab_3
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {// check which radiobutton was selected
+        {
             if (radioButton1.Checked == true)
                 textBox5.Text = Convert.ToString(Convert.ToDouble(textBox4.Text) * 10 / 100);
             if (radioButton2.Checked == true)

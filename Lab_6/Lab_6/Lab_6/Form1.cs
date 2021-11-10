@@ -24,7 +24,6 @@ namespace Lab_6
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //  listBox1.Items.RemoveAt(0);
             listBox1.Items.Remove(listBox1.SelectedItem);
         }
 

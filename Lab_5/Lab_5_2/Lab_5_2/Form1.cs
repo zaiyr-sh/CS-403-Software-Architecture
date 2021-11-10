@@ -21,14 +21,13 @@ namespace Lab_5_2
         {
             richTextBox1.Clear();
             richTextBox1.SelectionBullet = true;
-            // Set indentation in pixels for list items
+            
             richTextBox1.BulletIndent = 50;
             richTextBox1.SelectionFont = new Font("Arial", 16);
-            // Display text that is not affected by the set 
-            // indentation (SelectionBullet = false)
+
             richTextBox1.SelectedText = "Below is a list \n";
             richTextBox1.SelectionFont = new Font("Arial", 12);
-            // Next is a list
+
             richTextBox1.SelectionBullet = true;
             richTextBox1.SelectionColor = Color.Red;
             richTextBox1.SelectedText = "Apple" + "\n";
@@ -67,7 +66,7 @@ namespace Lab_5_2
         private void richTextBox2_LinkClicked(object sender, LinkClickedEventArgs e)
         {
             MessageBox.Show("Clicked on links");
-            System.Diagnostics.Process.Start(e.LinkText); // line for the transition
+            System.Diagnostics.Process.Start(e.LinkText);
 
         }
     }

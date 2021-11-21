@@ -1,0 +1,10 @@
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\bin\Debug\LAB_8_1.exe.config
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\bin\Debug\LAB_8_1.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\bin\Debug\LAB_8_1.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.csproj.AssemblyReference.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.Form1.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.Properties.Resources.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.csproj.GenerateResource.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.csproj.CoreCompileInputs.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_8\LAB_8_1\LAB_8_1\obj\Debug\LAB_8_1.pdb

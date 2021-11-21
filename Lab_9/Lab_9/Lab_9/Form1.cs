@@ -21,7 +21,7 @@ namespace Lab_9
         {
             Form2 editForm = new Form2();
             if (editForm.ShowDialog() != DialogResult.OK)
-                return; // if the Cancel button was clicked on form2 then exit
+                return;
 
             ListViewItem newItem = listView1.Items.Add(editForm.FirstName);
             newItem.SubItems.Add(editForm.LastName);

@@ -1,0 +1,11 @@
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.AssemblyReference.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.Form1.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.GenerateResource.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SoftwareArchitectureAndDesignPatterns\Lab_10\Lab_10\Lab_10\obj\Debug\Lab_10.Form3.resources

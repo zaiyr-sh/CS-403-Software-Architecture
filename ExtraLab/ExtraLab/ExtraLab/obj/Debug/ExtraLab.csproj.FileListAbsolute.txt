@@ -1,0 +1,7 @@
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\bin\Debug\ExtraLab.exe.config
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\bin\Debug\ExtraLab.exe
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\bin\Debug\ExtraLab.pdb
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\obj\Debug\ExtraLab.csproj.AssemblyReference.cache
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\obj\Debug\ExtraLab.csproj.CoreCompileInputs.cache
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\obj\Debug\ExtraLab.exe
+C:\Users\zsharsheev\Desktop\IAAU\SA\ExtraLab\ExtraLab\ExtraLab\obj\Debug\ExtraLab.pdb

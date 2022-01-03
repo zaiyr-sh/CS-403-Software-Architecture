@@ -6,7 +6,7 @@ namespace ExtraLab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Задача №1");
+            Console.WriteLine("Task №1");
             const int row = 4;
             const int column = 5;
             int[,] matrix = new int[column, row] { { 1, 2, 3, 4 },
@@ -20,7 +20,7 @@ namespace ExtraLab
 
             Console.WriteLine("===========================================");
 
-            Console.WriteLine("Задача №2");
+            Console.WriteLine("Task №2");
             const int n = 5;
             int[,] matrix2 = new int[n, n] { { 5, 4, 3, 2, 1 },
                     { 4, 5, 4, 3, 2 },
@@ -30,13 +30,13 @@ namespace ExtraLab
         
             Task2 t2 = new Task2(matrix2, n);
             if (t2.isSymmetric())
-                Console.WriteLine("Симметрична");    
+                Console.WriteLine("Symmetrical");    
             else
-                Console.WriteLine("Не симметрична");
+                Console.WriteLine("Not symmetrical");
 
             Console.WriteLine("===========================================");
 
-            Console.WriteLine("Задача №3");
+            Console.WriteLine("Task №3");
             int[,] matrix3 = new int[column, row] { { 1, 2, 3, 4 },
                     { 5, 6, 7, 8 },
                     { 9, 10, 11, 12 },
